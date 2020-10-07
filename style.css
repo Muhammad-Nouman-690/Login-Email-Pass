@@ -1,0 +1,30 @@
+.main{
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent) !important;
+    }
+    .logo{width: 70px !important; height: 70px !important;}
+    .logo-text{font-size: 30px; font-weight: bold;}
+    .form-control{
+    width: 100% !important;
+    }
+    body{
+    background: linear-gradient(to right)  ;
+    cursor: default;
+    pointer-events: none;
+    }
+    button, input{
+    pointer-events: all !important;
+    }
+    .border-radius-left{
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    }
+    .border-radius-right{
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    }
+    .striped{
+    background-size: 30rem 30rem;
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+    }
